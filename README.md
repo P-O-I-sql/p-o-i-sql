@@ -1,7 +1,7 @@
 ## Hi, I'm Praise  👋
 Data Analyst | Excel • Power BI • SQL<br/>
 
-I turn raw data into clear, actionable insights that drive smarter decisions. With hands-on experience building dashboards, analyzing financial and operational data, and optimizing workflows, I focus on making data useful, not just beautiful.<br/>
+I turn raw data into clear, actionable insights that drive smarter decisions. With 2 years experience building dashboards, analyzing financial and operational data, and optimizing workflows, I focus on making data useful, not just beautiful.<br/>
 
 I work primarily with Excel, Power BI, SQL, and Power Query, and I enjoy transforming messy datasets into structured models, intuitive visuals, and stories stakeholders can actually understand.<br/>
 
