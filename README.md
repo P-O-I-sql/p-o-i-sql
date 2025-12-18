@@ -1,21 +1,21 @@
-## Hi, I'm Praise  👋
+## Hi, I'm Praise 👋
 Data Analyst | Excel • Power BI • SQL<br/>
 
-I turn raw data into clear, actionable insights that drive smarter decisions. With 2 years experience building dashboards, analyzing financial and operational data, and optimizing workflows, I focus on making data useful, not just beautiful.<br/>
+I turn raw, messy data into clear, actionable insights that help teams make smarter decisions. With 2+ years of hands-on experience, I’ve worked with financial, operational, and business data—building dashboards and analytical models that answer real questions, not just look good.<br/>
 
-I work primarily with Excel, Power BI, SQL, and Power Query, and I enjoy transforming messy datasets into structured models, intuitive visuals, and stories stakeholders can actually understand.<br/>
+My work spans end-to-end analytics: cleaning and transforming data, modeling it for analysis, and designing dashboards that stakeholders can understand and trust. I enjoy bridging the gap between data and decision-making by turning numbers into stories that drive action.<br/>
 
-📊 What I do here:<br/>
+📊 Real-world projects I’ve delivered:<br/>
 
-🟠 Data cleaning & transformation<br/>
-🟠 Dashboard design & KPI tracking<br/>
-🟠 Exploratory data analysis & reporting<br/>
-🟠 Real-world analytics projects & case studies<br/>
+1️⃣ Website Analytics Dashboard — tracked traffic, engagement, and conversion metrics to support performance optimization<br/>
+2️⃣ Budget allocation vs Utilization Dashboard — monitored spending, allocations, and utilization for better cost control<br/>
+3️⃣ Actual vs Budget & Variance Analysis — identified gaps, trends, and drivers behind financial performance<br/>
+4️⃣ Bank Statement Analysis — automated transaction categorization and financial insights<br/>
+5️⃣ Retail Sales Dashboard — analyzed sales trends, product performance, and revenue drivers<br/>
 
-I’m always learning, experimenting, and refining my approach to analytics—because good data work is equal parts logic, curiosity, and clarity.<br/>
+I have expertise in analytics tools such as Microsoft Excel, Power BI, and SQL while constantly refining my approach<br/>
 
-Let’s build insights that matter!<br/>
-
+Let’s build insights that matter.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/p-o-i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Praise8756@gmail.com) 
