@@ -11,7 +11,8 @@ I work primarily with Excel, Power BI, SQL, and Power Query, and I enjoy transfo
 🟠 Dashboard design & KPI tracking<br/>
 🟠 Exploratory data analysis & reporting<br/>
 🟠 Real-world analytics projects & case studies<br/>
-🟠 I’m always learning, experimenting, and refining my approach to analytics—because good data work is equal parts logic, curiosity, and clarity.<br/>
+
+I’m always learning, experimenting, and refining my approach to analytics—because good data work is equal parts logic, curiosity, and clarity.<br/>
 
 Let’s build insights that matter!<br/>
 
