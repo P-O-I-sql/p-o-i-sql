@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Praise  👋
+Data Analyst | Excel • Power BI • SQL<br/>
 
-<!--
-**P-O-I-sql/p-o-i-sql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn raw data into clear, actionable insights that drive smarter decisions. With hands-on experience building dashboards, analyzing financial and operational data, and optimizing workflows, I focus on making data useful, not just beautiful.<br/>
 
-Here are some ideas to get you started:
+I work primarily with Excel, Power BI, SQL, and Power Query, and I enjoy transforming messy datasets into structured models, intuitive visuals, and stories stakeholders can actually understand.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 What I do here:<br/>
+
+Data cleaning & transformation<br/>
+Dashboard design & KPI tracking<br/>
+Exploratory data analysis & reporting<br/>
+Real-world analytics projects & case studies<br/>
+I’m always learning, experimenting, and refining my approach to analytics—because good data work is equal parts logic, curiosity, and clarity.<br/>
+
+Let’s build insights that matter!<br/>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn.com/in/p-o-i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Praise8756@gmail.com) 
+
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=p-o-i-sql&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=p-o-i-sql&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=p-o-i-sql&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=p-o-i-sql&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
